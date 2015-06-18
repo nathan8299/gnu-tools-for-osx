@@ -12,5 +12,5 @@ curl https://raw.githubusercontent.com/vidurgupta01/gnu-tools-for-osx/master/ins
 This will install the three programming tools.
 
 ## Credits
-Thanks to http://jsdelfino.blogspot.com/2012/08/autoconf-and-automake-on-mac-os-x.html
+Thanks to http://jsdelfino.blogspot.com/2012/08/autoconf-and-automake-on-mac-os-x.html.
 This version is an updated version of the script found in that link.
