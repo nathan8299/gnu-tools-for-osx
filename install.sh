@@ -9,9 +9,9 @@ export build=~/devtools
 mkdir -p $build
 
 cd $build
-curl -OL http://ftpmirror.gnu.org/autoconf/autoconf-latest.tar.gz
-tar xzf autoconf-latest.tar.gz
-cd autoconf-latest
+curl -OL http://ftpmirror.gnu.org/autoconf/autoconf-2.69.tar.gz
+tar xzf autoconf-2.69.tar.gz
+cd autoconf-2.69
 ./configure --prefix=$build/autotools-bin
 make
 make install
